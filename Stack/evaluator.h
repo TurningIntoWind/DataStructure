@@ -4,5 +4,5 @@
 #include <string>
 #include <cctype>
 
-// Äæ²¨À¼±í´ïÊ½ÇóÖµ
+// é€†æ³¢å…°è¡¨è¾¾å¼æ±‚å€¼
 int Eval(const std::string&);
